@@ -181,3 +181,46 @@
 [2025-10-03 08:53:49] PreToolUse Hook Called
 [2025-10-03 08:53:49] PostToolUse Hook Called
 [2025-10-03 08:53:52] Stop Hook Called
+[2025-10-03 10:36:48] SessionStart - ID: 527f8ae9-82b6-4f2a-8a25-f4b3e0e8d843, CWD: /Users/jnarowski/Dev/playground/src/claude-code-boilerplate
+[2025-10-03 10:36:59] UserPromptSubmit - CWD: /Users/jnarowski/Dev/playground/src/claude-code-boilerplate, Prompt: Can you update the readme.md file again explaining..., Session: 527f8ae9-82b6-4f2a-8a25-f4b3e0e8d843
+[2025-10-03 10:37:03] PreToolUse - Tool: Glob, Session: 527f8ae9-82b6-4f2a-8a25-f4b3e0e8d843
+[2025-10-03 10:37:03] PreToolUse - Tool: Read, Session: 527f8ae9-82b6-4f2a-8a25-f4b3e0e8d843
+[2025-10-03 10:37:03] PreToolUse - Tool: Read, Session: 527f8ae9-82b6-4f2a-8a25-f4b3e0e8d843
+[2025-10-03 10:37:04] PostToolUse - Tool: Read, Success: unknown, Session: 527f8ae9-82b6-4f2a-8a25-f4b3e0e8d843
+[2025-10-03 10:37:04] PostToolUse - Tool: Read, Success: unknown, Session: 527f8ae9-82b6-4f2a-8a25-f4b3e0e8d843
+[2025-10-03 10:37:04] PostToolUse - Tool: Glob, Success: unknown, Session: 527f8ae9-82b6-4f2a-8a25-f4b3e0e8d843
+[2025-10-03 10:37:20] SessionStart - ID: ac780781-578c-4625-8c7a-8c2c59fba4a7, CWD: /Users/jnarowski/Dev/playground/src/claude-code-boilerplate
+[2025-10-03 10:37:21] UserPromptSubmit - CWD: /Users/jnarowski/Dev/playground/src/claude-code-boilerplate, Prompt: Can you update the readme.md file again explaining..., Session: ac780781-578c-4625-8c7a-8c2c59fba4a7
+[2025-10-03 10:37:27] PreToolUse - Tool: Glob, Session: ac780781-578c-4625-8c7a-8c2c59fba4a7
+[2025-10-03 10:37:27] PreToolUse - Tool: Read, Session: ac780781-578c-4625-8c7a-8c2c59fba4a7
+[2025-10-03 10:37:27] PreToolUse - Tool: Bash, Session: ac780781-578c-4625-8c7a-8c2c59fba4a7
+[2025-10-03 10:37:27] PostToolUse - Tool: Read, Success: unknown, Session: ac780781-578c-4625-8c7a-8c2c59fba4a7
+[2025-10-03 10:37:27] PostToolUse - Tool: Glob, Success: unknown, Session: ac780781-578c-4625-8c7a-8c2c59fba4a7
+[2025-10-03 10:37:27] PostToolUse - Tool: Bash, Success: unknown, Session: ac780781-578c-4625-8c7a-8c2c59fba4a7
+[2025-10-03 10:37:32] PreToolUse - Tool: Read, Session: ac780781-578c-4625-8c7a-8c2c59fba4a7
+[2025-10-03 10:37:32] PreToolUse - Tool: Read, Session: ac780781-578c-4625-8c7a-8c2c59fba4a7
+[2025-10-03 10:37:32] PreToolUse - Tool: Read, Session: ac780781-578c-4625-8c7a-8c2c59fba4a7
+[2025-10-03 10:37:32] PreToolUse - Tool: Read, Session: ac780781-578c-4625-8c7a-8c2c59fba4a7
+[2025-10-03 10:37:32] PreToolUse - Tool: Read, Session: ac780781-578c-4625-8c7a-8c2c59fba4a7
+[2025-10-03 10:37:33] PostToolUse - Tool: Read, Success: unknown, Session: ac780781-578c-4625-8c7a-8c2c59fba4a7
+[2025-10-03 10:37:33] PostToolUse - Tool: Read, Success: unknown, Session: ac780781-578c-4625-8c7a-8c2c59fba4a7
+[2025-10-03 10:37:33] PostToolUse - Tool: Read, Success: unknown, Session: ac780781-578c-4625-8c7a-8c2c59fba4a7
+[2025-10-03 10:37:33] PostToolUse - Tool: Read, Success: unknown, Session: ac780781-578c-4625-8c7a-8c2c59fba4a7
+[2025-10-03 10:37:33] PostToolUse - Tool: Read, Success: unknown, Session: ac780781-578c-4625-8c7a-8c2c59fba4a7
+[2025-10-03 10:37:59] PreToolUse - Tool: Edit, Session: ac780781-578c-4625-8c7a-8c2c59fba4a7
+[2025-10-03 10:38:00] PostToolUse - Tool: Edit, Success: unknown, Session: ac780781-578c-4625-8c7a-8c2c59fba4a7
+[2025-10-03 10:38:04] Stop - Session: ac780781-578c-4625-8c7a-8c2c59fba4a7, CWD: /Users/jnarowski/Dev/playground/src/claude-code-boilerplate
+[2025-10-03 10:50:33] UserPromptSubmit - CWD: /Users/jnarowski/Dev/playground/src/claude-code-boilerplate, Prompt: Can you update CLAUDE.md as well with anything tha..., Session: ac780781-578c-4625-8c7a-8c2c59fba4a7
+[2025-10-03 10:50:36] PreToolUse - Tool: Read, Session: ac780781-578c-4625-8c7a-8c2c59fba4a7
+[2025-10-03 10:50:37] PostToolUse - Tool: Read, Success: unknown, Session: ac780781-578c-4625-8c7a-8c2c59fba4a7
+[2025-10-03 10:50:57] PreToolUse - Tool: Read, Session: ac780781-578c-4625-8c7a-8c2c59fba4a7
+[2025-10-03 10:50:58] PostToolUse - Tool: Read, Success: unknown, Session: ac780781-578c-4625-8c7a-8c2c59fba4a7
+[2025-10-03 10:51:05] PreToolUse - Tool: Edit, Session: ac780781-578c-4625-8c7a-8c2c59fba4a7
+[2025-10-03 10:51:06] PostToolUse - Tool: Edit, Success: unknown, Session: ac780781-578c-4625-8c7a-8c2c59fba4a7
+[2025-10-03 10:51:10] Stop - Session: ac780781-578c-4625-8c7a-8c2c59fba4a7, CWD: /Users/jnarowski/Dev/playground/src/claude-code-boilerplate
+[2025-10-03 15:31:40] SessionStart - ID: badfaa3a-6f46-4fc5-8d4c-a79eb7316e0a, CWD: /Users/jnarowski/Dev/sourceborn/src/claude-code-boilerplate
+[2025-10-03 15:31:59] SessionStart - ID: bdbcd814-5ad8-4ee8-9bf4-e0bfbc7a4286, CWD: /Users/jnarowski/Dev/sourceborn/src/claude-code-boilerplate
+[2025-10-03 15:32:05] UserPromptSubmit - CWD: /Users/jnarowski/Dev/sourceborn/src/claude-code-boilerplate, Prompt: Add a gitignore ..., Session: bdbcd814-5ad8-4ee8-9bf4-e0bfbc7a4286
+[2025-10-03 15:32:10] PreToolUse - Tool: Write, Session: bdbcd814-5ad8-4ee8-9bf4-e0bfbc7a4286
+[2025-10-03 15:32:10] PostToolUse - Tool: Write, Success: unknown, Session: bdbcd814-5ad8-4ee8-9bf4-e0bfbc7a4286
+[2025-10-03 15:32:14] Stop - Session: bdbcd814-5ad8-4ee8-9bf4-e0bfbc7a4286, CWD: /Users/jnarowski/Dev/sourceborn/src/claude-code-boilerplate

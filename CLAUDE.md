@@ -50,3 +50,37 @@ All hooks are registered in `.claude/settings.json` with empty matchers (apply t
 ```bash
 tail -f .claude/hooks.log
 ```
+
+## Custom Slash Commands
+
+This repository includes several workflow automation commands in `.claude/commands/`:
+
+### Development Workflow Commands
+
+- **`/prime`** - Load project context at session start (runs `git ls-files`, reads README.md)
+- **`/create-spec [context]`** - Create specification files in `specs/` with phased implementation plans
+- **`/execute-spec <spec-file> [phase]`** - Implement spec phases with automated testing and commits
+- **`/review-spec-execution <spec-file>`** - Review implementation against spec requirements and run quality checks
+- **`/create-slash-command`** - Scaffold new custom slash commands
+
+### Directory Usage
+
+- **`specs/`** - Feature specification files created by `/create-spec`, consumed by `/execute-spec`
+- **`docs/`** - Project documentation (auto-generated or manually created)
+
+### Typical Workflow Pattern
+
+1. `/prime` - Initialize session context
+2. `/create-spec <feature description>` - Plan the work
+3. `/execute-spec specs/[file].md [phase]` - Implement incrementally
+4. `/review-spec-execution [file]` - Verify quality and completeness
+
+## Spec-Driven Development
+
+When implementing features using the spec workflow:
+
+- Specs are broken into phases with markdown task lists
+- Each phase should be implemented, tested, and committed separately
+- Use `/execute-spec` with phase numbers for incremental development
+- Use `/review-spec-execution` to ensure all requirements are met before considering work complete
+- Commit messages follow the pattern: `feat(phase-N): [description]`
