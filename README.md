@@ -1,6 +1,6 @@
 # Claude Code Hooks Example
 
-Example project demonstrating Claude Code hooks with macOS notifications via `terminal-notifier`.
+Example project demonstrating Claude Code hooks with macOS notifications via [`terminal-notifier`](https://github.com/julienXX/terminal-notifier).
 
 ## Features
 

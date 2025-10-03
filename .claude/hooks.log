@@ -175,3 +175,9 @@
 [2025-10-03 08:45:36] PostToolUse - Tool: Edit, Success: unknown, Session: 8ab7cfdc-2d12-4d63-9873-569fc3cbf574
 [2025-10-03 08:45:43] Stop - Session: 8ab7cfdc-2d12-4d63-9873-569fc3cbf574, CWD: /Users/jnarowski/Dev/playground/src/claude-code-hooks-example
 [2025-10-03 08:45:50] Notification - Message: Claude is waiting for your input, Session: 8ab7cfdc-2d12-4d63-9873-569fc3cbf574
+[2025-10-03 08:53:41] UserPromptSubmit Hook Called
+[2025-10-03 08:53:44] PreToolUse Hook Called
+[2025-10-03 08:53:44] PostToolUse Hook Called
+[2025-10-03 08:53:49] PreToolUse Hook Called
+[2025-10-03 08:53:49] PostToolUse Hook Called
+[2025-10-03 08:53:52] Stop Hook Called
