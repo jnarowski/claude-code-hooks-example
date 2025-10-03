@@ -1,0 +1,177 @@
+[2025-10-03 07:29:01] SessionStart Hook Called
+[2025-10-03 07:29:05] UserPromptSubmit Hook Called
+[2025-10-03 07:29:09] Stop Hook Called
+[2025-10-03 07:31:40] UserPromptSubmit Hook Called
+[2025-10-03 07:31:46] PreToolUse Hook Called
+[2025-10-03 07:31:46] PreToolUse Hook Called
+[2025-10-03 07:31:46] PreToolUse Hook Called
+[2025-10-03 07:31:46] PreToolUse Hook Called
+[2025-10-03 07:31:46] PreToolUse Hook Called
+[2025-10-03 07:31:46] PreToolUse Hook Called
+[2025-10-03 07:31:46] PreToolUse Hook Called
+[2025-10-03 07:31:46] PostToolUse Hook Called
+[2025-10-03 07:31:46] PostToolUse Hook Called
+[2025-10-03 07:31:46] PostToolUse Hook Called
+[2025-10-03 07:31:46] PostToolUse Hook Called
+[2025-10-03 07:31:46] PostToolUse Hook Called
+[2025-10-03 07:31:46] PostToolUse Hook Called
+[2025-10-03 07:31:46] PostToolUse Hook Called
+[2025-10-03 07:31:51] PreToolUse Hook Called
+[2025-10-03 07:31:51] PreToolUse Hook Called
+[2025-10-03 07:31:51] PreToolUse Hook Called
+[2025-10-03 07:31:51] PreToolUse Hook Called
+[2025-10-03 07:31:51] PostToolUse Hook Called
+[2025-10-03 07:31:51] PostToolUse Hook Called
+[2025-10-03 07:31:51] PostToolUse Hook Called
+[2025-10-03 07:31:51] PostToolUse Hook Called
+[2025-10-03 07:31:56] PreToolUse Hook Called
+[2025-10-03 07:31:56] PreToolUse Hook Called
+[2025-10-03 07:31:56] PostToolUse Hook Called
+[2025-10-03 07:31:56] PostToolUse Hook Called
+[2025-10-03 07:32:04] PreToolUse Hook Called
+[2025-10-03 07:32:04] PostToolUse Hook Called
+[2025-10-03 07:32:11] Stop Hook Called
+[2025-10-03 08:28:12] SessionStart - ID: 
+[2025-10-03 08:28:16] UserPromptSubmit - CWD: 
+[2025-10-03 08:28:20] Stop - Session: 
+[2025-10-03 08:28:21] UserPromptSubmit - CWD: 
+[2025-10-03 08:28:26] Stop - Session: 
+[2025-10-03 08:28:38] UserPromptSubmit - CWD: 
+[2025-10-03 08:28:42] PreToolUse - Tool: 
+[2025-10-03 08:28:42] PostToolUse - Tool: 
+[2025-10-03 08:28:47] Stop - Session: 
+[2025-10-03 08:29:04] SessionStart - ID: 
+[2025-10-03 08:29:11] UserPromptSubmit - CWD: 
+[2025-10-03 08:29:17] PreToolUse - Tool: 
+[2025-10-03 08:29:17] PreToolUse - Tool: 
+[2025-10-03 08:29:17] PreToolUse - Tool: 
+[2025-10-03 08:29:17] PreToolUse - Tool: 
+[2025-10-03 08:29:17] PreToolUse - Tool: 
+[2025-10-03 08:29:17] PreToolUse - Tool: 
+[2025-10-03 08:29:18] PostToolUse - Tool: 
+[2025-10-03 08:29:18] PostToolUse - Tool: 
+[2025-10-03 08:29:18] PostToolUse - Tool: 
+[2025-10-03 08:29:18] PostToolUse - Tool: 
+[2025-10-03 08:29:18] PostToolUse - Tool: 
+[2025-10-03 08:29:18] PostToolUse - Tool: 
+[2025-10-03 08:29:22] PreToolUse - Tool: 
+[2025-10-03 08:29:22] PreToolUse - Tool: 
+[2025-10-03 08:29:22] PreToolUse - Tool: 
+[2025-10-03 08:29:22] PostToolUse - Tool: 
+[2025-10-03 08:29:22] PostToolUse - Tool: 
+[2025-10-03 08:29:22] PostToolUse - Tool: 
+[2025-10-03 08:29:27] PreToolUse - Tool: 
+[2025-10-03 08:29:27] PreToolUse - Tool: 
+[2025-10-03 08:29:27] PostToolUse - Tool: 
+[2025-10-03 08:29:27] PostToolUse - Tool: 
+[2025-10-03 08:29:37] PreToolUse - Tool: 
+[2025-10-03 08:29:37] PostToolUse - Tool: 
+[2025-10-03 08:29:41] Stop - Session: 
+[2025-10-03 08:30:39] UserPromptSubmit - CWD: 
+[2025-10-03 08:30:43] Stop - Session: 
+[2025-10-03 08:31:19] UserPromptSubmit - CWD: 
+[2025-10-03 08:31:25] PreToolUse - Tool: 
+[2025-10-03 08:31:35] PostToolUse - Tool: 
+[2025-10-03 08:31:41] Stop - Session: 
+[2025-10-03 08:33:23] UserPromptSubmit - CWD: 
+[2025-10-03 08:33:27] PreToolUse - Tool: 
+[2025-10-03 08:33:35] PostToolUse - Tool: 
+[2025-10-03 08:33:38] PreToolUse - Tool: 
+[2025-10-03 08:33:44] PostToolUse - Tool: 
+[2025-10-03 08:33:49] PreToolUse - Tool: 
+[2025-10-03 08:33:57] PostToolUse - Tool: 
+[2025-10-03 08:34:05] Stop - Session: 
+[2025-10-03 08:34:50] UserPromptSubmit - CWD: 
+[2025-10-03 08:34:55] PreToolUse - Tool: 
+[2025-10-03 08:34:56] PostToolUse - Tool: 
+[2025-10-03 08:35:22] PreToolUse - Tool: 
+[2025-10-03 08:35:23] PostToolUse - Tool: 
+[2025-10-03 08:35:28] PreToolUse - Tool: 
+[2025-10-03 08:35:29] PostToolUse - Tool: 
+[2025-10-03 08:35:47] PreToolUse - Tool: 
+[2025-10-03 08:35:47] PostToolUse - Tool: 
+[2025-10-03 08:35:53] PreToolUse - Tool: 
+[2025-10-03 08:35:53] PostToolUse - Tool: 
+[2025-10-03 08:35:58] PreToolUse - Tool: 
+[2025-10-03 08:35:58] PostToolUse - Tool: 
+[2025-10-03 08:36:17] PreToolUse - Tool: 
+[2025-10-03 08:36:17] PostToolUse - Tool: 
+[2025-10-03 08:36:22] PreToolUse - Tool: 
+[2025-10-03 08:36:23] PostToolUse - Tool: 
+[2025-10-03 08:36:32] Stop - Session: 
+[2025-10-03 08:36:38] Notification - 
+[2025-10-03 08:36:48] SessionStart - ID: 0337133e-ab72-4825-9b78-699902e32f93, CWD: /Users/jnarowski/Dev/playground/src/claude-code-hooks-example
+[2025-10-03 08:36:52] UserPromptSubmit - CWD: /Users/jnarowski/Dev/playground/src/claude-code-hooks-example, Prompt: Testing the script..., Session: 0337133e-ab72-4825-9b78-699902e32f93
+[2025-10-03 08:36:56] Stop - Session: 0337133e-ab72-4825-9b78-699902e32f93, CWD: /Users/jnarowski/Dev/playground/src/claude-code-hooks-example
+[2025-10-03 08:37:55] UserPromptSubmit - CWD: /Users/jnarowski/Dev/playground/src/claude-code-hooks-example, Prompt: based on my hooks, does it make sense to make each..., Session: 0337133e-ab72-4825-9b78-699902e32f93
+[2025-10-03 08:38:03] Stop - Session: 0337133e-ab72-4825-9b78-699902e32f93, CWD: /Users/jnarowski/Dev/playground/src/claude-code-hooks-example
+[2025-10-03 08:38:25] UserPromptSubmit - CWD: /Users/jnarowski/Dev/playground/src/claude-code-hooks-example, Prompt: do people typically use sh scripts, python, ruby o..., Session: 0337133e-ab72-4825-9b78-699902e32f93
+[2025-10-03 08:38:35] Stop - Session: 0337133e-ab72-4825-9b78-699902e32f93, CWD: /Users/jnarowski/Dev/playground/src/claude-code-hooks-example
+[2025-10-03 08:38:57] UserPromptSubmit - CWD: /Users/jnarowski/Dev/playground/src/claude-code-hooks-example, Prompt: ok let's refactor each of these into sh scripts as..., Session: 0337133e-ab72-4825-9b78-699902e32f93
+[2025-10-03 08:39:06] PreToolUse - Tool: TodoWrite, Session: 0337133e-ab72-4825-9b78-699902e32f93
+[2025-10-03 08:39:06] PostToolUse - Tool: TodoWrite, Success: unknown, Session: 0337133e-ab72-4825-9b78-699902e32f93
+[2025-10-03 08:39:11] PreToolUse - Tool: Read, Session: 0337133e-ab72-4825-9b78-699902e32f93
+[2025-10-03 08:39:17] PreToolUse - Tool: TodoWrite, Session: 0337133e-ab72-4825-9b78-699902e32f93
+[2025-10-03 08:39:17] PostToolUse - Tool: TodoWrite, Success: unknown, Session: 0337133e-ab72-4825-9b78-699902e32f93
+[2025-10-03 08:39:22] PreToolUse - Tool: Bash, Session: 0337133e-ab72-4825-9b78-699902e32f93
+[2025-10-03 08:39:22] PostToolUse - Tool: Bash, Success: unknown, Session: 0337133e-ab72-4825-9b78-699902e32f93
+[2025-10-03 08:39:28] PreToolUse - Tool: TodoWrite, Session: 0337133e-ab72-4825-9b78-699902e32f93
+[2025-10-03 08:39:28] PostToolUse - Tool: TodoWrite, Success: unknown, Session: 0337133e-ab72-4825-9b78-699902e32f93
+[2025-10-03 08:39:41] PreToolUse - Tool: TodoWrite, Session: 0337133e-ab72-4825-9b78-699902e32f93
+[2025-10-03 08:39:41] PostToolUse - Tool: TodoWrite, Success: unknown, Session: 0337133e-ab72-4825-9b78-699902e32f93
+[2025-10-03 08:39:53] PreToolUse - Tool: TodoWrite, Session: 0337133e-ab72-4825-9b78-699902e32f93
+[2025-10-03 08:39:54] PostToolUse - Tool: TodoWrite, Success: unknown, Session: 0337133e-ab72-4825-9b78-699902e32f93
+[2025-10-03 08:40:07] PreToolUse - Tool: TodoWrite, Session: 0337133e-ab72-4825-9b78-699902e32f93
+[2025-10-03 08:40:07] PostToolUse - Tool: TodoWrite, Success: unknown, Session: 0337133e-ab72-4825-9b78-699902e32f93
+[2025-10-03 08:40:19] PreToolUse - Tool: TodoWrite, Session: 0337133e-ab72-4825-9b78-699902e32f93
+[2025-10-03 08:40:20] PostToolUse - Tool: TodoWrite, Success: unknown, Session: 0337133e-ab72-4825-9b78-699902e32f93
+[2025-10-03 08:40:31] PreToolUse - Tool: TodoWrite, Session: 0337133e-ab72-4825-9b78-699902e32f93
+[2025-10-03 08:40:32] PostToolUse - Tool: TodoWrite, Success: unknown, Session: 0337133e-ab72-4825-9b78-699902e32f93
+[2025-10-03 08:40:44] PreToolUse - Tool: TodoWrite, Session: 0337133e-ab72-4825-9b78-699902e32f93
+[2025-10-03 08:40:44] PostToolUse - Tool: TodoWrite, Success: unknown, Session: 0337133e-ab72-4825-9b78-699902e32f93
+[2025-10-03 08:40:56] PreToolUse - Tool: TodoWrite, Session: 0337133e-ab72-4825-9b78-699902e32f93
+[2025-10-03 08:40:56] PostToolUse - Tool: TodoWrite, Success: unknown, Session: 0337133e-ab72-4825-9b78-699902e32f93
+[2025-10-03 08:41:07] PreToolUse - Tool: TodoWrite, Session: 0337133e-ab72-4825-9b78-699902e32f93
+[2025-10-03 08:41:08] PostToolUse - Tool: TodoWrite, Success: unknown, Session: 0337133e-ab72-4825-9b78-699902e32f93
+[2025-10-03 08:41:19] PreToolUse - Tool: TodoWrite, Session: 0337133e-ab72-4825-9b78-699902e32f93
+[2025-10-03 08:41:20] PostToolUse - Tool: TodoWrite, Success: unknown, Session: 0337133e-ab72-4825-9b78-699902e32f93
+[2025-10-03 08:41:50] PreToolUse - Tool: TodoWrite, Session: 0337133e-ab72-4825-9b78-699902e32f93
+[2025-10-03 08:41:51] PostToolUse - Tool: TodoWrite, Success: unknown, Session: 0337133e-ab72-4825-9b78-699902e32f93
+[2025-10-03 08:41:54] PreToolUse - Tool: Bash, Session: 0337133e-ab72-4825-9b78-699902e32f93
+[2025-10-03 08:41:54] PostToolUse - Tool: Bash, Success: unknown, Session: 0337133e-ab72-4825-9b78-699902e32f93
+[2025-10-03 08:42:01] PreToolUse - Tool: TodoWrite, Session: 0337133e-ab72-4825-9b78-699902e32f93
+[2025-10-03 08:42:01] PostToolUse - Tool: TodoWrite, Success: unknown, Session: 0337133e-ab72-4825-9b78-699902e32f93
+[2025-10-03 08:42:08] Stop - Session: 0337133e-ab72-4825-9b78-699902e32f93, CWD: /Users/jnarowski/Dev/playground/src/claude-code-hooks-example
+[2025-10-03 08:42:14] Notification - Message: Claude is waiting for your input, Session: 0337133e-ab72-4825-9b78-699902e32f93
+[2025-10-03 08:42:17] SessionStart - ID: 8ab7cfdc-2d12-4d63-9873-569fc3cbf574, CWD: /Users/jnarowski/Dev/playground/src/claude-code-hooks-example
+[2025-10-03 08:43:31] UserPromptSubmit - CWD: /Users/jnarowski/Dev/playground/src/claude-code-hooks-example, Prompt: Hey..., Session: 8ab7cfdc-2d12-4d63-9873-569fc3cbf574
+[2025-10-03 08:43:34] Stop - Session: 8ab7cfdc-2d12-4d63-9873-569fc3cbf574, CWD: /Users/jnarowski/Dev/playground/src/claude-code-hooks-example
+[2025-10-03 08:43:49] UserPromptSubmit - CWD: /Users/jnarowski/Dev/playground/src/claude-code-hooks-example, Prompt: Just testing the hooks..., Session: 8ab7cfdc-2d12-4d63-9873-569fc3cbf574
+[2025-10-03 08:43:53] Stop - Session: 8ab7cfdc-2d12-4d63-9873-569fc3cbf574, CWD: /Users/jnarowski/Dev/playground/src/claude-code-hooks-example
+[2025-10-03 08:44:29] UserPromptSubmit - CWD: /Users/jnarowski/Dev/playground/src/claude-code-hooks-example, Prompt: /init ..., Session: 8ab7cfdc-2d12-4d63-9873-569fc3cbf574
+[2025-10-03 08:44:36] PreToolUse - Tool: Bash, Session: 8ab7cfdc-2d12-4d63-9873-569fc3cbf574
+[2025-10-03 08:44:36] PreToolUse - Tool: Read, Session: 8ab7cfdc-2d12-4d63-9873-569fc3cbf574
+[2025-10-03 08:44:36] PreToolUse - Tool: Bash, Session: 8ab7cfdc-2d12-4d63-9873-569fc3cbf574
+[2025-10-03 08:44:37] PostToolUse - Tool: Bash, Success: unknown, Session: 8ab7cfdc-2d12-4d63-9873-569fc3cbf574
+[2025-10-03 08:44:37] PostToolUse - Tool: Read, Success: unknown, Session: 8ab7cfdc-2d12-4d63-9873-569fc3cbf574
+[2025-10-03 08:44:37] PostToolUse - Tool: Bash, Success: unknown, Session: 8ab7cfdc-2d12-4d63-9873-569fc3cbf574
+[2025-10-03 08:44:43] PreToolUse - Tool: Read, Session: 8ab7cfdc-2d12-4d63-9873-569fc3cbf574
+[2025-10-03 08:44:43] PreToolUse - Tool: Bash, Session: 8ab7cfdc-2d12-4d63-9873-569fc3cbf574
+[2025-10-03 08:44:43] PostToolUse - Tool: Read, Success: unknown, Session: 8ab7cfdc-2d12-4d63-9873-569fc3cbf574
+[2025-10-03 08:44:43] PostToolUse - Tool: Bash, Success: unknown, Session: 8ab7cfdc-2d12-4d63-9873-569fc3cbf574
+[2025-10-03 08:44:48] PreToolUse - Tool: Read, Session: 8ab7cfdc-2d12-4d63-9873-569fc3cbf574
+[2025-10-03 08:44:48] PreToolUse - Tool: Read, Session: 8ab7cfdc-2d12-4d63-9873-569fc3cbf574
+[2025-10-03 08:44:48] PostToolUse - Tool: Read, Success: unknown, Session: 8ab7cfdc-2d12-4d63-9873-569fc3cbf574
+[2025-10-03 08:44:48] PostToolUse - Tool: Read, Success: unknown, Session: 8ab7cfdc-2d12-4d63-9873-569fc3cbf574
+[2025-10-03 08:45:03] PreToolUse - Tool: Edit, Session: 8ab7cfdc-2d12-4d63-9873-569fc3cbf574
+[2025-10-03 08:45:04] PostToolUse - Tool: Edit, Success: unknown, Session: 8ab7cfdc-2d12-4d63-9873-569fc3cbf574
+[2025-10-03 08:45:16] PreToolUse - Tool: Edit, Session: 8ab7cfdc-2d12-4d63-9873-569fc3cbf574
+[2025-10-03 08:45:16] PostToolUse - Tool: Edit, Success: unknown, Session: 8ab7cfdc-2d12-4d63-9873-569fc3cbf574
+[2025-10-03 08:45:25] PreToolUse - Tool: Edit, Session: 8ab7cfdc-2d12-4d63-9873-569fc3cbf574
+[2025-10-03 08:45:25] PostToolUse - Tool: Edit, Success: unknown, Session: 8ab7cfdc-2d12-4d63-9873-569fc3cbf574
+[2025-10-03 08:45:31] PreToolUse - Tool: Edit, Session: 8ab7cfdc-2d12-4d63-9873-569fc3cbf574
+[2025-10-03 08:45:31] PostToolUse - Tool: Edit, Success: unknown, Session: 8ab7cfdc-2d12-4d63-9873-569fc3cbf574
+[2025-10-03 08:45:36] PreToolUse - Tool: Edit, Session: 8ab7cfdc-2d12-4d63-9873-569fc3cbf574
+[2025-10-03 08:45:36] PostToolUse - Tool: Edit, Success: unknown, Session: 8ab7cfdc-2d12-4d63-9873-569fc3cbf574
+[2025-10-03 08:45:43] Stop - Session: 8ab7cfdc-2d12-4d63-9873-569fc3cbf574, CWD: /Users/jnarowski/Dev/playground/src/claude-code-hooks-example
+[2025-10-03 08:45:50] Notification - Message: Claude is waiting for your input, Session: 8ab7cfdc-2d12-4d63-9873-569fc3cbf574
